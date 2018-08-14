@@ -13,11 +13,6 @@ class Homepage extends React.Component{
             count: prevState.count + change,
         }));
     }
-    componentWillMount(){
-        document.body.style.margin = 0;
-        document.body.style.marginTop = "-21px";
-
-    }
 
     render() {
         const i_like = ["me", "math", "programming", "music"]
