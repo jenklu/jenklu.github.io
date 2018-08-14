@@ -5,7 +5,8 @@ function Navbar(props){
         display: 'inline',
         marginLeft: '5px',
         marginRight: '5px',
-        border: '2px dotted black'
+        border: '2px dotted black',
+        color: '#4ec62d',
 
     }
     const sections = props.sections.map((section)=>
@@ -18,8 +19,9 @@ function Navbar(props){
         margin: 0,
         padding: 0,
         fontSize: '24px',
-        color: '#4ec62d',
+        textShadow: 'none',
         width: '100%',
+        position: 'fixed'
 
     };
     return(
