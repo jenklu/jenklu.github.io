@@ -1,25 +1,14 @@
 import React from "react"
 
-class Counter extends React.Component{
-    constructor() {
-        super();
-        this.state = { count: 0 }
-    }
-    count(change) {
-        this.setState(prevState => ({
-            count: prevState.count + change,
-        }));
-    }
+class Index extends React.Component{
     render() {
         return (
             <div>
-                <h1> Counter </h1>
-                <p>Count: {this.state.count}</p>
-                <button onClick={() => this.count(1)}> plus </button>
-                <button onClick={() => this.count(-1)}> minus </button>
+            lucas jenkins' personal website<br />
+            WORK IN PROGRESS
             </div>
         ) 
     }
 }
 
-export default Counter;
+export default Index;
