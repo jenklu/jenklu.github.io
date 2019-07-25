@@ -1,5 +1,5 @@
 import React from "react"
-
+import("../styles/homepage.scss")
 class Index extends React.Component{
     render() {
         return (
