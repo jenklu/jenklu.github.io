@@ -22,7 +22,7 @@ class Index extends React.Component{
                     I was born and raised in Boston, went to LA for college, and loved 
                     California so much I decided to stay out there for a full-time job 
                     as a software engineer at Google. Besides writing code and spending 
-                    ime with friends/family, I enjoy playing basketball, playing the 
+                    time with friends & family, I enjoy playing basketball, playing the 
                     guitar, and looking for the best taco places in any city I visit. 
                     Check out the rest of my website to learn more about me and what 
                     I’ve worked on.

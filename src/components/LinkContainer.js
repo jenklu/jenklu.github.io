@@ -44,7 +44,7 @@ const LinkContainer = (props) => {
         </div>
         <div className="linkItem">
             <p className="linkDescription">
-                To see what music I’m into
+                To see what music I listen to
             </p>
             <a href="https://open.spotify.com/user/1231801536?si=s6Oi3haTQH6U88Er0Bqt8A" target="_blank">
                 <img src={spotifyIcon} alt="Spotify icon link"/>
