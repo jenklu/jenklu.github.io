@@ -1,6 +1,5 @@
 import "../styles/homepage.scss"
 import React from "react"
-import resumePdf from "../assets/lucas_jenkins_resume.pdf"
 import linkedinIcon from "../assets/linkedin_icon.png"
 import resumeIcon from "../assets/resume_icon.png"
 import githubIcon from "../assets/github_icon.png"
@@ -23,7 +22,7 @@ const LinkContainer = (props) => {
             <p className="linkDescription">
                 For my LinkedIn info in PDF form
             </p>
-            <a href={resumePdf} download> 
+            <a href="lucas-jenkins-resume.pdf" download> 
                 <img src={resumeIcon} alt="Resume icon link"/> 
             </a>
         </div>
