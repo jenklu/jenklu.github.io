@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{189:function(e,t,o){"use strict";o.r(t);var r=o(0),n=o.n(r);var p=function(e){var t,o;function r(){return e.apply(this,arguments)||this}return o=e,(t=r).prototype=Object.create(o.prototype),t.prototype.constructor=t,t.__proto__=o,r.prototype.render=function(){return n.a.createElement("a",{href:"lucas-jenkins-resume.pdf",download:!0},"click here to download my resume")},r}(n.a.Component);t.default=p}}]);
-//# sourceMappingURL=component---src-pages-resume-js-7a431fd2fff7f811ea9e.js.map
