@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Lucas Jenkins' Homepage
+title: Lucas Jenkins
 description: >- # this means to ignore newlines until "baseurl:"
-  This is Lucas Jenkins' personal homepage/blog, mostly intended for publishing writing.
+  A personal homepage to publish my writing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://jenklu.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jenklu12
