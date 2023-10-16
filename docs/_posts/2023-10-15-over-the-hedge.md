@@ -11,6 +11,7 @@ today. The thrust of the piece is:
 > Indexing may be the correct default for public investors, but can be dangerous when replicated in
 > other domains. The public markets show us the second-order effects of indexing, so we can learn
 > how it affects the private markets, startups, and culture.
+
 While I found the comparison strained beyond its limits in a few places[^1], I vibed with the
 emphasis on "indexing" as the opposite of "conviction". Some of my life choices are aligned with
 this idea[^2], so I'm receptive to it.
@@ -21,8 +22,8 @@ but the idea that's stuck with me is ["Hell yeah or no"](https://sive.rs/n). Bas
 short, time is limited, and you should say no to things that don't make you say "hell yeah".
 
 These compounded with another thought I've had recently. I'm somewhere between not-good and baseline
-competent at a lot of the things I do in my free time[^2]. Every time I do one of these activities,
-I have a vague sense that I would to improve at it. But in some sense, I'm "indexing" my free time
+competent at a lot of the things I do in my free time. Every time I do one of these activities, I
+have a vague sense that I would to improve at it. But in some sense, I'm "indexing" my free time
 across a lot of things (including a number of activities I _don't_ care to improve at).
 
 I have an aversion to the tech-bro stereotype of a "hyper-optimized" life, and I don't want to track
@@ -110,8 +111,10 @@ Even though I'm not planning to make any massive changes or do any minute-level 
 from maybe Twitter usage), I think this exercise in "making concentrated bets" will help me be more
 intentional with how I spend my free time.
 
+#### Footnotes
 [^1]: Increasing globalization post-WWII felt like a tenuous comparison, and the idea that quantum
       mechanics represents a similar trend to buying a bundle of index funds felt...not right. But
       these were not the main points of the piece and I still really liked it overall!
+
 [^2]: The big one is making a concentrated bet on startup experience and equity at
       [Copia](https://copia.io) instead of BigTech experience and $ that I funneled into index funds
