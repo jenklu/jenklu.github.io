@@ -1,14 +1,14 @@
 ---
 layout: post
 title: '"Rivethead" by Ben Hamper - Review'
-date: 2023-11-13 12:47 -0500
+date: 2023-11-13 00:47 -0500
 tags: book review
 ---
 
-We read this one for our Copia Automation employee book club. I breezed through it as an audiobook
+*We read this one for our Copia Automation employee book club. I breezed through it as an audiobook
 over the weekend. It was an easy read, and the audiobook narrator felt perfect for the subject
 matter. It was also my first time making use of Spotify Premium's new 15h/month audiobooks, which
-I'm pumped about. Time to cancel my audible!
+I'm pumped about. Time to cancel my Audible!*
 
 A peek into the auto-making heartland of America as it was through the author's childhood up to the
 late 80's. Hamper has a great sense of humor and a knack for bringing you into his slice of life.
