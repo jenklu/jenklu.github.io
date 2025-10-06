@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Code Review: Part 1"
+date: 2025-09-29 23:30:00 -0500
+tags: travel travelog italy paris spain
+---
+
 # TRIP JOURNAL
 
 ## Trip for Quinten & Alexa's wedding: Milan ✈️ Lecce 🚘 Gallipoli 🚘 Monopoli ✈️ Paris ✈️ Valencia
